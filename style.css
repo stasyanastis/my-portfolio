@@ -11,7 +11,7 @@ body {
 header.header {
   position: relative;
   height: 70vh;
-  background: url('background.jpg.jfif') center/cover no-repeat; /* <- сюди вставляєш свою фотку */
+  background: url('background.jpg') center/cover no-repeat; /* <- сюди вставляєш свою фотку */
   display: flex;
   align-items: center;
   justify-content: center;
